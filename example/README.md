@@ -6,7 +6,7 @@ This as an example of using the Docker Puppeteer docker image to run Mocha tests
 
 ```shell
 # Clone this example
-git clone https://github.com/buildkite/docker-puppeteer.git
+git clone https://github.com/touch4it/docker-puppeteer.git
 cd docker-puppeteer/example
 
 # Build and run the example tests
