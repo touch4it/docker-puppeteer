@@ -8,6 +8,12 @@ A Node + Puppeteer base image for running Puppeteer scripts. Add your own tools 
 
 See the list of [Docker Hub tags](https://hub.docker.com/r/touch4it/puppeteer/tags/) for Puppeteer versions available.
 
+## Build
+
+```sh
+docker buildx build --platform=linux/amd64 .
+```
+
 ## Usage
 
 To use the docker image directly, run:
