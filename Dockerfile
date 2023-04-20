@@ -1,6 +1,6 @@
 # Based on https://github.com/puppeteer/puppeteer/blob/main/docker/Dockerfile
 
-FROM node:18.14.2-bullseye-slim
+FROM node:18.16.0-bullseye-slim
 
 SHELL ["/bin/bash", "-o", "pipefail", "-c"]
 
